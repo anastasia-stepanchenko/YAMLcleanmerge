@@ -1,0 +1,13 @@
+Name of QuantLet: YAMLcleanmerge
+
+Description: Cleanes YAML text corpus containing Quantnet metainfo.txt files from empty fields, merges similar fields and plots the number of documents, containing each field.
+
+Keywords: plot, graphical representation, data visualization, text mining, statistics
+
+See also: YAMLnumbchars
+
+Author: Anastasia Stepanchenko
+
+Submitted: 
+
+Datafiles: yamlQN.RData
